@@ -115,4 +115,4 @@ The goal is to:
 ## 👤 Author
 **Azar Taheri**  
  
-🔗 [LinkedIn Profile](#)
+🔗 [www.linkedin.com/in/azar-taheri](#)
